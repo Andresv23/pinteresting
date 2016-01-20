@@ -1,5 +1,17 @@
+$body-bg: #ecf0f1;
+$navbar-inverse-bg: #16a085;
+$navbar-inverse-link-color: white;
+$brand-primary: #c0392b;
+$jumbotron-bg: #bdc3c7;
+$navbar-header: #9b59b6;
+
 @import 'bootstrap';
+@import 'bootstrap-sprockets';
+
+
 //= depend_on_asset "bootstrap/glyphicons-halflings-regular.eot"
 //= depend_on_asset "bootstrap/glyphicons-halflings-regular.svg"
 //= depend_on_asset "bootstrap/glyphicons-halflings-regular.ttf"
 //= depend_on_asset "bootstrap/glyphicons-halflings-regular.woff"
+
+
